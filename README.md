@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**CelestiaFawkes/CelestiaFawkes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Rajeshwari Kaps!
 
-Here are some ideas to get you started:
+A passionate developer exploring the world of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Java**, **Spring Boot**, and **DSA**.
+- 💻 Interested in **backend development**, **microservices**, and **full-stack applications**.
+
+## 🔧 Technologies & Tools
+- **Programming Languages**: Java, C++, JavaScript
+- **Frameworks & Libraries**: Spring Boot
+- **Tools**: Docker, Jenkins, PostgreSQL
+- **Others**: Git, REST APIs
+
+## 📚 Current Learning Goals
+- Master **Spring Framework** and **Spring Boot**.
+- Build scalable backend systems with **microservices**.
+- Enhance problem-solving skills through regular **DSA practice**.
+
+## 📫 Connect With Me
+- [GitHub](https://github.com/CelestiaFawkes)  
+
+**"Building the future, one line of code at a time."**
