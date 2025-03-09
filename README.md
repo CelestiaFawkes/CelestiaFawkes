@@ -20,6 +20,7 @@ A passionate developer exploring the world of software development.
 - Enhance problem-solving skills through regular **DSA practice**.
 
 ## 📫 Connect With Me
-- [GitHub](https://github.com/CelestiaFawkes)  
+- [GitHub](https://github.com/CelestiaFawkes)
+- [LinkedIn](https://www.linkedin.com/in/rajeshwari-kapse-7a6b1b301)  
 
 **"Building the future, one line of code at a time."**
