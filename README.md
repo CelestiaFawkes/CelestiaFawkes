@@ -139,7 +139,7 @@ Using
 - ✅ Master Data Warehousing
 - ✅ Master Data Modeling
 - ✅ Build Cloud Data Lakehouse
-- ✅ Crack a ₹20–30 LPA Data Engineer Role
+
 
 ---
 
