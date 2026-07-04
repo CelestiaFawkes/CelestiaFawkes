@@ -169,11 +169,11 @@ Using
 
 # 📫 Let's Connect
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajeshwari-kapse-7a6b1b301/)
 
-💻 GitHub: https://github.com/yourusername
+💻 GitHub:[ https://github.com/yourusername](https://github.com/CelestiaFawkes)
 
-📧 Email: your.email@gmail.com
+📧 Email: Rajeshwari Kapse <kapse.rajeshwari17@gmail.com>
 
 ---
 
