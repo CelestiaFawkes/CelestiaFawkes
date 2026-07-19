@@ -2,7 +2,7 @@
 
 ### 🚀 Data Engineer | Building Scalable Data Pipelines | Cloud & Big Data Enthusiast
 
-Passionate Data Engineer with nearly 2 years of experience designing, developing, and optimizing data pipelines. I enjoy transforming raw data into reliable, scalable, and business-ready solutions using modern data engineering technologies.
+Passionate Data Engineer with experience in designing, developing, and optimizing data pipelines. I enjoy transforming raw data into reliable, scalable, and business-ready solutions using modern data engineering technologies.
 
 ---
 
