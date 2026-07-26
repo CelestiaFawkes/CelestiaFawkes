@@ -169,9 +169,9 @@ Using
 
 # 📫 Let's Connect
 
-💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/rajeshwari-kapse-7a6b1b301/)
+💼 LinkedIn: [https://linkedin.com/in/Rajeshwari_Kapse](https://www.linkedin.com/in/rajeshwari-kapse-7a6b1b301/)
 
-💻 GitHub:[ https://github.com/yourusername](https://github.com/CelestiaFawkes)
+💻 GitHub:[ https://github.com/CelestiaFawkes](https://github.com/CelestiaFawkes)
 
 📧 Email: Rajeshwari Kapse <kapse.rajeshwari17@gmail.com>
 
