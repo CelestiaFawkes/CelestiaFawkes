@@ -60,7 +60,6 @@ Passionate Data Engineer with experience in designing, developing, and optimizin
 
 ### 📈 Visualization
 - Power BI
-- Tableau
 
 ---
 
