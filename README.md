@@ -51,12 +51,6 @@ Passionate Data Engineer with experience in designing, developing, and optimizin
 
 > *(Planning to expand into AWS Data Engineering as well.)*
 
-### ⚙️ DevOps & Tools
-- Docker
-- Git
-- GitHub
-- Linux
-- Jenkins
 
 ### 📈 Visualization
 - Power BI
