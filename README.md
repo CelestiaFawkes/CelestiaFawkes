@@ -136,29 +136,7 @@ Using
 
 ---
 
-# 🌱 What You'll Find Here
 
-📂 End-to-End Data Engineering Projects
-
-📊 SQL Practice & Query Optimization
-
-🐍 Python for Data Engineering
-
-⚡ Apache Spark
-
-🌊 Kafka
-
-☁️ Azure Data Engineering
-
-🏢 Data Warehousing
-
-📈 Data Modeling
-
-🏗️ System Design Notes
-
-💻 DSA Journey
-
----
 
 # 📫 Let's Connect
 
